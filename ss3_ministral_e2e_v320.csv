@@ -1,0 +1,129 @@
+﻿case_id,question,operation,risks,status,answer,n_evidence,n_claims_accepted,n_claims_rejected,generation_complete,ms_total,audit_plan_hash
+DOC01,Identificá qué órgano ejerce las competencias normativas de protección industrial en La Rioja.,documental,superlative|outcome_efficacy,GENERATED_COMPLETE,"El órgano competente para ejercer las **normativas de protección industrial en La Rioja** durante el período 2016–2019, según el *Sistema Excepcional de Protección al Trabajador Industrial*, es el **Ministerio de Planeamiento e Industria de la Provincia**, a través de sus áreas específicas  [DOC_018, Art. 7°, DOC_018_CH_0008].
+
+Este marco legal asigna al ministerio la **autoridad de aplicación** y la coordinación con otras áreas de la Función Ejecutiva para implementar las medidas correspondientes  [DOC_018, Art. 7°, DOC_018_CH_0008].
+
+El documento no menciona otros órganos con competencias normativas exclusivas en esta materia, aunque invita a los municipios a dictar medidas complementarias en el ámbito de sus competencias  [DOC_018, p.3, DOC_018_CH_0013].
+
+Sin embargo, esta invitación no implica una transferencia de potestades normativas centrales, sino una colaboración voluntaria para mitigar la crisis sectorial  [DOC_018, p.3, DOC_018_CH_0013].
+
+No se identifican restricciones o comparticiones de competencias con otros organismos provinciales en el dossier consultado, por lo que la atribución normativa se circunscribe al Ministerio de Planeamiento e Industria  [DOC_018, Art. 7°, DOC_018_CH_0008].",2,5,0,True,18409.2,SS3-ae45444722f7c300
+COMP01,Confrontá la oferta de instrumentos crediticios para pequeños productores de Catamarca y La Rioja.,comparative,superlative|outcome_efficacy,GENERATED_COMPLETE,"Además, se implementó el **Fondo Provincial para la Promoción del Microcrédito**, respaldado por transferencias del Fondo Nacional del Microcrédito y recursos provinciales, con exenciones fiscales para las operaciones  [DOC_012, Art. 6, DOC_012_CH_0007] [DOC_012, Art. 2, DOC_012_CH_0003].
+
+Este esquema priorizó la asistencia financiera a micros y pequeñas empresas mediante proyectos específicos, aunque se reconoció la dificultad para acceder a créditos bancarios por falta de flujo operativo en sectores como el ganadero  [DOC_009, DOC_009_RSEC_0061, DOC_009_CH_0136].
+
+U$1.000.000 para una planta)  [DOC_003, DOC_003_RSEC_0005, DOC_003_CH_0012].
+
+El **punto en común** entre ambas provincias es la existencia de **limitaciones estructurales** para el acceso al crédito formal, aunque en Catamarca se implementaron mecanismos institucionales para mitigarlas, mientras que en La Rioja la estrategia se orientó a proyectos de escalamiento productivo con financiamiento condicionado  [DOC_009, DOC_009_RSEC_0061, DOC_009_CH_0136] [DOC_003, DOC_003_RSEC_0005, DOC_003_CH_0012].
+
+La diferencia clave radica en que Catamarca articuló fondos públicos y exenciones para facilitar el crédito, mientras que La Rioja priorizó inversiones en infraestructura productiva sin un programa crediticio explícito para pequeños productores  [DOC_009, DOC_009_RSEC_0080, DOC_009_CH_0175] [DOC_012, Art. 6, DOC_012_CH_0007] [DOC_003, DOC_003_RSEC_0005, DOC_003_CH_0012].
+
+El dossier no permite inferir causalidad ni jerarquizar la eficacia de los esquemas, pero sí refleja enfoques distintos: **financiamiento asistencial en Catamarca** frente a **inversión en capacidad productiva en La Rioja**  [DOC_009, DOC_009_RSEC_0080, DOC_009_CH_0175] [DOC_003, DOC_003_RSEC_0005, DOC_003_CH_0012].",12,6,4,True,45848.7,SS3-9da6bce05d07b581
+TIME01,Rastreá las transformaciones en actividades científicas santiagueñas desde los inicios hasta el cierre del período.,diachronic,outcome_efficacy,GENERATED_INCOMPLETE,"**Borrador incompleto — no apto para publicación.**
+
+En el período **2009–2011**, las actividades científicas en Santiago del Estero no se documentan explícitamente en el dossier, aunque sí se registran regulaciones vinculadas a sectores productivos y ambientales, como la **actividad cinegética** y la gestión de bosques nativos, que implicaban estudios técnicos y normativas basadas en inventarios ambientales  [DOC_015, Art. 20, DOC_015_CH_0025] [DOC_015, Art. 2, DOC_015_CH_0003].
+
+Estos marcos legales, aunque no directamente científicos, reflejaban una incipiente articulación entre investigación aplicada y políticas públicas, orientadas a la gestión de recursos naturales  [DOC_015, Art. 20, DOC_015_CH_0025] [DOC_016, Art. 4, DOC_016_CH_0005].
+
+Entre **2012–2015**, emerge un enfoque más estructurado hacia la innovación tecnológica, con iniciativas como la **jornada de promoción de proyectos de innovación** organizada por la Secretaría de Desarrollo, Ciencia y Tecnología en colaboración con la Agencia Nacional de Promoción Científica  [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040].
+
+Este período destaca por el fomento a emprendimientos en **tecnologías de la información (TICs)** y la creación de instrumentos de financiamiento, como el **FONSOFT**, para cofinanciar proyectos de software y desarrollo tecnológico  [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040] [DOC_004, DOC_004_RSEC_0002, DOC_004_CH_0003].
+
+Además, se recomienda fortalecer actividades de ciencia aplicada, especialmente en sectores productivos locales, aunque con limitaciones en competitividad tecnológica  [DOC_004, DOC_004_RSEC_0002, DOC_004_CH_0003].
+
+Para **2016–2019**, las actividades científicas santiagueñas consolidan un giro hacia la **propiedad intelectual y la innovación**, con programas como las **Charlas sobre Propiedad Intelectual** impulsadas por la Dirección General de Ciencia y Tecnología  [DOC_006, DOC_006_RSEC_0043, DOC_006_CH_0101].
+
+Estas acciones buscan concientizar sobre derechos de autor, patentes y marcas, vinculando la investigación académica —como papers o tesis— con la protección de producciones intelectuales  [DOC_006, DOC_006_RSEC_0043, DOC_006_CH_0101] [DOC_006, DOC_006_RSEC_0060, DOC_006_CH_0137].
+
+La cobertura documental no permite evaluar continuidades en actividades científicas básicas o aplicadas fuera de estos ejes tecnológicos y normativos, por lo que las transformaciones observadas se centran en **políticas de innovación y propiedad intelectual**, sin datos comparables sobre otros ámbitos  [DOC_006, DOC_006_RSEC_0043, DOC_006_CH_0101] [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040] [DOC_006, DOC_006_RSEC_0060, DOC_006_CH_0137].",10,8,2,False,44554.8,SS3-1cca29ddb2ce5c7d
+HYP01,¿Qué hallazgos matizan la imagen de Catamarca como provincia primordialmente comunicacional?,hypothesis_test,superlative|outcome_efficacy,GENERATED_COMPLETE,"El *Programa Catamarca Crece* (2012–2015) combinó campañas publicitarias —como las vinculadas a obras de infraestructura bajo el lema *“Catamarca crece”*— con políticas activas de desarrollo productivo, empleo y agregado de valor en sectores como la agroindustria y la minería  [DOC_007, DOC_007_RSEC_0017, DOC_007_CH_0037] [DOC_007, DOC_007_RSEC_0010, DOC_007_CH_0022].
+
+Esto sugiere que la comunicación no fue un fin en sí mismo, sino un *instrumento* para visibilizar iniciativas como el *Centro Integral de Salud* o el *Refugio de la Mujer*, que respondían a demandas sociales priorizadas  [DOC_007, DOC_007_RSEC_0017, DOC_007_CH_0037].
+
+Sin embargo, los hallazgos también revelan que la comunicación no agotó el modelo provincial: el dossier destaca iniciativas *productivistas* y *modernizadoras*, como la promoción de cadenas de valor en bovinos y forrajes —con énfasis en asociatividad y financiamiento— que buscaban fortalecer la economía local desde lo técnico y comercial  [DOC_009, DOC_009_RSEC_0055, DOC_009_CH_0121] [DOC_009, DOC_009_RSEC_0065, DOC_009_CH_0145].
+
+La adhesión a la *Ley Nacional de Ciencia, Tecnología e Innovación* (2009–2011) y el financiamiento de obras de infraestructura para Pymes reflejan una orientación hacia la *transformación estructural*, no exclusiva al ámbito comunicacional  [DOC_010, Art. 2, DOC_010_CH_0003] [DOC_011, Art. 5°, DOC_011_CH_0009].
+
+La robustez de estos matices aparece condicionada: mientras la comunicación fue un eje transversal —ejemplo las campañas *“Testimonio de Inversión”* (2009–2011) para obras de agua y luz—, su alcance no fue exclusivo, sino complementario a políticas de *desarrollo territorial* y *generación de empleo*  [DOC_008, p.30, DOC_008_CH_0036] [DOC_008, p.12, DOC_008_CH_0009].
+
+En síntesis, Catamarca no se redujo a un *modelo comunicacional*, sino que su gestión combinó herramientas de visibilidad con acciones en producción, empleo y servicios, aunque la comunicación mantuvo un rol central en la narrativa gubernamental  [DOC_007, DOC_007_RSEC_0001, DOC_007_CH_0001] [DOC_014, Art. 3°, DOC_014_CH_0004].
+
+La orientación *productivista* y la promoción de sectores estratégicos —como la agroindustria— limitan una lectura exclusiva del *modelo comunicacional* como eje único  [DOC_009, DOC_009_RSEC_0055, DOC_009_CH_0121] [DOC_011, Art. 5°, DOC_011_CH_0009].",12,7,2,True,47761.8,SS3-2738f2d97469385b
+SAFETY01,¿Puede decirse que una ley provincial causó aumento de empleo sin series comparables?,hypothesis_test,causal_effect,GENERATED_COMPLETE,"El dossier no permite atribuir un **aumento de empleo** directamente a leyes provinciales sin series comparables, ya que los documentos analizados se centran en iniciativas de **fortalecimiento científico-tecnológico, innovación productiva y promoción de sectores específicos**, pero carecen de indicadores cuantitativos o series temporales que vinculen estas políticas con variaciones en el mercado laboral  [DOC_006, DOC_006_RSEC_0043, DOC_006_CH_0101] [DOC_004, DOC_004_RSEC_0017, DOC_004_CH_0036] [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040] [DOC_006, DOC_006_RSEC_0063, DOC_006_CH_0142].
+
+En Santiago del Estero, las acciones —como charlas de propiedad intelectual, talleres de emprendimiento tecnológico o la Ley N° 6750 de promoción industrial— se diseñaron para **generar capacidades productivas y competitivas**, pero no se documentan métricas que midan su impacto directo en empleo, ni comparaciones con provincias o períodos similares  [DOC_005, DOC_005_RSEC_0013, DOC_005_CH_0032] [DOC_005, DOC_005_RSEC_0002, DOC_005_CH_0004] [DOC_011, pp.1-2, DOC_011_CH_0001].
+
+En Catamarca, el *Programa Catamarca Crece* (2013) y las campañas de comunicación de obras públicas priorizaron **desarrollo económico y productivo**, sin evidencia de correlación causal con tasas de empleo  [DOC_008, pp.36-37, DOC_008_CH_0045] [DOC_008, pp.4-5, DOC_008_CH_0007] [DOC_011, pp.1-2, DOC_011_CH_0001].
+
+La Rioja, por su parte, enfocó sus proyectos en **mejoras técnicas y empresariales para sectores hortícolas**, pero tampoco se registran datos que permitan evaluar su efecto en generación de puestos de trabajo frente a otras jurisdicciones o contextos  [DOC_003, DOC_003_RSEC_0010, DOC_003_CH_0024].
+
+Por lo tanto, el dossier **no respalda la hipótesis de causalidad** entre leyes provinciales y aumento de empleo sin datos comparativos, y las orientaciones documentadas aparecen como **acciones de contexto** (innovación, capacitación) más que como drivers directos de empleo  [DOC_009, DOC_009_RSEC_0065, DOC_009_CH_0145] [DOC_006, DOC_006_RSEC_0053, DOC_006_CH_0122].",12,5,1,True,34780.4,SS3-8cb2d6b10f9eafa1
+SYSTEM01,¿Cuáles de los textos del corpus necesitaron procesamiento OCR para ser consultables?,coverage,,SS3_COVERAGE,Auditoría del corpus: 19 documentos; 19 con texto utilizable; 0 con extracción incompleta. Esta cobertura no equivale a exhaustividad histórica.,0,0,0,,9.4,SS3-2f7ef39584d21502
+OOD01,¿Cuánto cuesta hoy el kilo de papa en un supermercado de Chilecito?,out_of_scope,,SS3_OUT_OF_SCOPE,SS3 clasificó la consulta fuera del alcance histórico-documental del Observatorio. No hay respuesta documental aplicable.,0,0,0,,7.5,SS3-6c6cfa7d21801c9d
+FOLLOW01-1,¿Qué documentos respaldan o matizan el perfil modernizador de Santiago del Estero?,hypothesis_test,outcome_efficacy,GENERATED_COMPLETE,"El dossier no respalda explícitamente un perfil modernizador de Santiago del Estero en términos de innovación sistémica o transformación estructural, sino que **matiza la hipótesis** al mostrar iniciativas puntuales con enfoque en incentivos fiscales y actividades sectoriales específicas, sin evidencia de un modelo integral  [DOC_005, DOC_005_RSEC_0058, DOC_005_CH_0141] [DOC_004, DOC_004_RSEC_0017, DOC_004_CH_0037].
+
+Asimismo, las acciones en ciencia y tecnología —como cafés científicos, talleres de propiedad intelectual y ferias de innovación— aparecen como esfuerzos aislados, sin datos que demuestren escalabilidad o impacto en sectores productivos más amplios  [DOC_004, DOC_004_RSEC_0017, DOC_004_CH_0037] [DOC_006, DOC_006_RSEC_0063, DOC_006_CH_0142].
+
+La adhesión a leyes nacionales (ej. bosques nativos) o regulaciones comerciales (cinegética) no configura un marco modernizador, sino que responde a exigencias normativas o de mercado, sin proponer transformaciones profundas en el tejido económico provincial  [DOC_015, Art. 5, DOC_015_CH_0008] [DOC_016, p.1, DOC_016_CH_0001].
+
+La evidencia adversarial predominante sugiere que el ""perfil modernizador"" se construye sobre **promesas de estabilidad fiscal y eventos simbólicos**, pero no sobre resultados medibles en competitividad o diversificación económica  [DOC_005, DOC_005_RSEC_0058, DOC_005_CH_0141] [DOC_006, DOC_006_RSEC_0064, DOC_006_CH_0144].
+
+Por ejemplo, la promoción de emprendimientos tecnológicos se limita a espacios de difusión y financiamiento puntual (como el FONSOFT), sin evidencia de que estos hayan generado clusters industriales o reducción de brechas tecnológicas  [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040].
+
+Incluso las recomendaciones oficiales —como afianzar la difusión científica o fortalecer la propiedad intelectual— son declarativas y no acompañadas de métricas que validen su ejecución o resultados  [DOC_006, DOC_006_RSEC_0064, DOC_006_CH_0144].
+
+La falta de datos sobre transferencia tecnológica o alianzas público-privadas que trasciendan lo discursivo limita cualquier caracterización de un modelo modernizador  [DOC_005, DOC_005_RSEC_0058, DOC_005_CH_0141] [DOC_004, DOC_004_RSEC_0017, DOC_004_CH_0037].
+
+En conclusión, el dossier **no respalda** un perfil modernizador consolidado, sino que **adversarialmente** evidencia un conjunto de acciones dispersas, con énfasis en beneficios fiscales y eventos de difusión, pero sin evidencia de transformaciones estructurales o sostenidas en innovación o productividad  [DOC_005, DOC_005_RSEC_0058, DOC_005_CH_0141] [DOC_006, DOC_006_RSEC_0064, DOC_006_CH_0144].",10,8,5,True,57606.1,SS3-30cce10f55c4d955
+FOLLOW01-2,¿Y en Catamarca?,hypothesis_test,,GENERATED_COMPLETE,"El *Programa Catamarca Crece* (2012–2015) combinó asistencia financiera a MIPYMES, obras de infraestructura y capacitación productiva, pero su diseño priorizó **créditos de largo plazo para medianos y grandes productores agropecuarios** —como proyectos de alfalfa, maíz o ciclo completo bovino— en lugar de un enfoque inclusivo  [DOC_011, Art. 5°, DOC_011_CH_0009] [DOC_009, DOC_009_RSEC_0093, DOC_009_CH_0205].
+
+Sin embargo, la viabilidad de estos créditos dependió de criterios externos, como la evaluación del FONDEAR, que favoreció proyectos de mayor escala  [DOC_009, DOC_009_RSEC_0093, DOC_009_CH_0205].
+
+La evidencia adversarial destaca que, aunque se crearon fondos como el *Fondo Provincial para la Promoción del Microcrédito* (2009–2011), su operatividad estuvo condicionada a transferencias nacionales y recursos limitados, sin garantizar acceso equitativo  [DOC_012, Art. 6, DOC_012_CH_0007] [DOC_012, Art. 4, DOC_012_CH_0005].
+
+Además, la promoción de cooperativas y producción agroindustrial —mencionada en informes de comunicación gubernamental— **no se tradujo en políticas de financiamiento directo** para sectores informales o pequeños emprendimientos  [DOC_007, DOC_007_RSEC_0017, DOC_007_CH_0035].
+
+La ausencia de indicadores comparables impide evaluar si estos esquemas superaron barreras estructurales, pero sí reflejan una **enfoque segmentado** que priorizó sectores con mayor capacidad de endeudamiento  [DOC_009, DOC_009_RSEC_0084, DOC_009_CH_0185].
+
+Los documentos de *SAIJ* y *CFI* coinciden en que la modernización en Catamarca **no se consolidó como un modelo unificado**, sino como una combinación de iniciativas puntuales: desde la adhesión a leyes nacionales de ciencia y tecnología (2009–2011) hasta campañas comunicacionales sobre infraestructura energética y vivienda, que **no siempre vincularon fondos con resultados tangibles en desarrollo productivo sostenido**  [DOC_010, Art. 2, DOC_010_CH_0003] [DOC_007, DOC_007_RSEC_0003, DOC_007_CH_0007] [DOC_008, pp.3-4, DOC_008_CH_0006].
+
+En síntesis, los datos respaldan un **perfil productivista con recursos condicionados**, pero **sin confirmar un modelo modernizador exclusivo**, dado que las limitaciones institucionales y la focalización en sectores específicos restan coherencia a una estrategia de desarrollo integral  [DOC_011, Art. 5°, DOC_011_CH_0009] [DOC_009, DOC_009_RSEC_0093, DOC_009_CH_0205] [DOC_012, Art. 4, DOC_012_CH_0005] [DOC_007, DOC_007_RSEC_0017, DOC_007_CH_0035].",12,7,2,True,45559.8,SS3-fb119b5b46e5c749
+COMP06,Identificá diferencias entre incentivos fiscales riojanos y financiamiento catamarqueño.,comparative,,GENERATED_COMPLETE,"En Catamarca, los incentivos fiscales se centran en **desgravaciones impositivas y créditos de fomento** para impulsar actividades productivas, industriales y comerciales, incluyendo exenciones en Ingresos Brutos para abastecedores que faenen ganado local, lo que equivale a un beneficio del 6% del kilo vivo  [DOC_011, p.2, DOC_011_CH_0002] [DOC_009, DOC_009_RSEC_0057, DOC_009_CH_0126].
+
+Además, el Estado provincial promueve la radicación de industrias mediante subsidios en tarifas públicas y adjudicación de tierras fiscales, con un enfoque en zonas de frontera y unidades económicas familiares  [DOC_011, p.2, DOC_011_CH_0002].
+
+Estos instrumentos buscan consolidar cadenas de valor como la bovina, coordinando acciones simultáneas en frentes como alimentación y hotelería  [DOC_009, DOC_009_RSEC_0072, DOC_009_CH_0159].
+
+En La Rioja, el financiamiento se orienta a **concentración parcelaria y fortalecimiento organizativo** de productores, priorizando la compra de predios para alcanzar superficies mínimas de cinco hectáreas, especialmente en cadenas como la nogalicultura  [DOC_003, DOC_003_RSEC_0013, DOC_003_CH_0032].
+
+No se documentan incentivos fiscales directos como exenciones impositivas, pero sí se observan medidas de **promoción comercial**, como la obligación de exhibir productos de origen riojano en góndolas exclusivas en supermercados  [DOC_019, pp.1-2, DOC_019_CH_0001] [DOC_019, Art. 3, DOC_019_CH_0004].
+
+Ambos territorios comparten un **enfoque en el desarrollo productivo**, pero mientras Catamarca apuesta por **beneficios fiscales y créditos para atraer inversión industrial y agropecuaria** —con un impacto directo en la cadena de valor del ganado—, La Rioja prioriza **soluciones organizativas y de mercado** para pequeños y medianos productores, sin mecanismos de exención impositiva explícitos  [DOC_011, p.2, DOC_011_CH_0002] [DOC_003, DOC_003_RSEC_0013, DOC_003_CH_0032].
+
+La diferencia clave radica en la **naturaleza de los instrumentos**: incentivos fiscales en Catamarca vs. financiamiento territorial y promoción comercial en La Rioja  [DOC_011, p.2, DOC_011_CH_0002] [DOC_019, pp.1-2, DOC_019_CH_0001].
+
+La ausencia de datos comparables en el dossier impide evaluar la eficacia relativa de estos enfoques, pero ambos reflejan estrategias complementarias: mientras Catamarca busca **facilitar la competitividad mediante beneficios tributarios**, La Rioja enfoca sus recursos en **agregación de valor y organización productiva**  [DOC_011, p.2, DOC_011_CH_0002] [DOC_003, DOC_003_RSEC_0013, DOC_003_CH_0032] [DOC_019, pp.1-2, DOC_019_CH_0001].",12,8,1,True,43507.0,SS3-dc7ac485ab2b2067
+TIME08,¿Qué instrumentos productivos aparecen tempranamente y cuáles sólo en las fuentes tardías?,hypothesis_test,,GENERATED_COMPLETE,"La adhesión a la **Ley Nacional de Ciencia, Tecnología e Innovación** en Catamarca (2009–2011)  [DOC_010, pp.1-2, DOC_010_CH_0001] [DOC_010, Art. 3, DOC_010_CH_0004] se limita a un marco normativo institucional, sin evidencia de instrumentos operativos concretos en ese período.
+
+En cambio, Santiago del Estero ya en 2012–2015 implementó **charla sobre propiedad intelectual en desarrollo de software** y promovió el **FONSOFT** para financiar proyectos TICs, destacando la articulación con actores nacionales como la Agencia de Promoción Científica  [DOC_004, DOC_004_RSEC_0017, DOC_004_CH_0036] [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040].
+
+En las fuentes tardías (2016–2019), Santiago del Estero profundiza con **empresas biotecnológicas** y charlas especializadas en propiedad intelectual aplicada a páginas web y software  [DOC_006, DOC_006_RSEC_0043, DOC_006_CH_0101] [DOC_006, DOC_006_RSEC_0032, DOC_006_CH_0078] [DOC_006, DOC_006_RSEC_0053, DOC_006_CH_0122], incluyendo estrategias de secreto industrial y valor agregado.
+
+Estos enfoques, ausentes en los períodos iniciales, reflejan una **especialización en nichos productivos de alto valor tecnológico**, como la detección de virosis vegetales o kits de diagnóstico, que no se registran en las provincias analizadas antes de 2016  [DOC_006, DOC_006_RSEC_0032, DOC_006_CH_0078].
+
+La Rioja, por su parte, en 2009–2011 priorizó **tecnologías productivas hortícolas** (cámaras de desverdisado, sistemas de calidad)  [DOC_003, DOC_003_RSEC_0010, DOC_003_CH_0024], pero sin vinculación explícita a instrumentos de innovación tecnológica avanzada.
+
+La evidencia sugiere que los instrumentos **productivos tempranos** se centraron en marcos normativos y capacitación básica (ej. adhesión a leyes, cafés científicos)  [DOC_010, pp.1-2, DOC_010_CH_0001] [DOC_004, DOC_004_RSEC_0017, DOC_004_CH_0036], mientras que los **tardíos** incorporaron herramientas de financiamiento, propiedad intelectual y desarrollo de empresas con enfoque en tecnologías específicas  [DOC_006, DOC_006_RSEC_0043, DOC_006_CH_0101] [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040].",12,6,3,True,43315.1,SS3-aaf06b4926b893e1
+HYP09,Evalúa la hipótesis de primacía tecnológica identificando explicaciones alternativas.,hypothesis_test,causal_effect|superlative|outcome_efficacy,GENERATED_COMPLETE,"En Catamarca, las acciones en la cadena de valor bovina y forrajes se centran en la evaluación crediticia y la distribución simultánea de volúmenes, pero no en innovaciones tecnológicas puntuales, sino en la sincronización de actores y la rentabilidad compartida  [DOC_009, DOC_009_RSEC_0065, DOC_009_CH_0145] [DOC_009, DOC_009_RSEC_0072, DOC_009_CH_0159].
+
+Esto sugiere que, aunque la tecnología puede ser un insumo, su implementación depende de consensos organizativos y de la capacidad de los eslabones más débiles para escalar producción  [DOC_009, DOC_009_RSEC_0072, DOC_009_CH_0159].
+
+En La Rioja, el programa de nogalicultura y horticultura bajo cubierta evidencia una estrategia productivista con fuerte énfasis en la reconversión varietal y la concentración parcelaria, pero con resultados económicos que no superan el salario mínimo, lo que revela que la innovación tecnológica —como el riego por goteo o protocolos de calidad— no garantiza rentabilidad por sí sola  [DOC_003, DOC_003_RSEC_0013, DOC_003_CH_0032] [DOC_003, DOC_003_RSEC_0010, DOC_003_CH_0024].
+
+La articulación con variables sociales (ej.: financiamiento para compra de tierras) y la reactivación de cámaras productoras indican que el éxito depende más de la organización colectiva que de la adopción tecnológica aislada  [DOC_003, DOC_003_RSEC_0013, DOC_003_CH_0032] [DOC_003, DOC_003_RSEC_0014, DOC_003_CH_0034].
+
+En Santiago del Estero, aunque se promueven instrumentos de innovación tecnológica (como subsidios para TICs o talleres de propiedad intelectual), su impacto se limita a la difusión y capacitación inicial, sin evidencia de que estos mecanismos hayan transformado cadenas productivas enteras  [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0040] [DOC_004, DOC_004_RSEC_0019, DOC_004_CH_0042].
+
+Las campañas comunicacionales en Catamarca —como ""Grandes Obras Grandes Sueños"" o ""Testimonio de Inversión""— operan como herramientas de legitimación institucional y movilización social, pero su diseño prioriza la visibilidad de proyectos de infraestructura (agua, luz) sobre la transferencia tecnológica directa  [DOC_008, p.30, DOC_008_CH_0036] [DOC_008, p.12, DOC_008_CH_0009].
+
+Esto respalda que el modelo comunicacional no es primario, sino un complemento para alinear expectativas y facilitar la adopción de cambios, pero no como motor exclusivo de transformación productiva  [DOC_008, p.30, DOC_008_CH_0036].",12,7,2,True,49189.9,SS3-ac192cf23eaaa0c2
